@@ -1,4 +1,4 @@
-R6 Downloader Changelog
+**R6 Downloader Changelog**
 
 [Version 1.4] (Latest)
 - Changed UI
