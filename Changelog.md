@@ -1,12 +1,22 @@
 R6 Downloader Changelog
 
-[Version 0.1]
-- Initial release
-
-
-[Version 0.2]
+[Version 1.4] (Latest)
 - Changed UI
-- Moved depot files into their own folder
+- Added Guide and FAQ section in the downloader itself
+
+
+[Version 1.3]
+- Changed UI
+- Converted downloader from .bat to .exe
+
+
+[Version 1.2]
+- Changed UI
+- Added all other operations (with downloadable 4K textures and extra languages)
+
+
+[Version 1.1]
+- Fixed Void Edge manifest
 
 
 [Version 1.0]
@@ -15,20 +25,10 @@ R6 Downloader Changelog
 - Added Velvet Shell, Health, Para Bellum, Grim Sky (with downloadable 4K textures and extra languages)
 
 
-[Version 1.1]
-- Fixed Void Edge manifest
-
-
-[Version 1.2]
+[Version 0.2]
 - Changed UI
-- Added all other operations (with downloadable 4K textures and extra languages)
+- Moved depot files into their own folder
 
 
-[Version 1.3]
-- Changed UI
-- Converted downloader from .bat to .exe
-
-
-[Version 1.4]
-- Changed UI
-- Added Guide and FAQ section in the downloader itself
+[Version 0.1]
+- Initial release
