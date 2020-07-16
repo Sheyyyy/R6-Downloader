@@ -32,3 +32,4 @@ R6 Downloader Changelog
 
 [Version 0.1]
 - Initial release
+
