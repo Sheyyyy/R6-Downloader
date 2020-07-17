@@ -1,6 +1,10 @@
 **R6 Downloader Changelog**
 
-[Version 1.4] (Latest)
+[Version 1.4.1] (Latest)
+- Improved UI
+
+
+[Version 1.4] 
 - Improved UI
 - Added Guide and FAQ section in the downloader itself
 
