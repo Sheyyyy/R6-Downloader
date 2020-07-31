@@ -1,6 +1,16 @@
 **R6 Downloader Changelog**
 
-[Version 1.4.1] (Latest)
+[Version 2.1] (Latest)
+- Fixed Void Edge manifest for full support of The Grand Larceny event
+- Improved UI
+
+
+[Version 2.0]
+- The downloader can now be navigated using a mouse, or arrow keys and enter
+- Other UI improvements
+
+
+[Version 1.4.1]
 - Improved UI
 
 
