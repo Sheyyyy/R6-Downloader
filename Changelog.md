@@ -1,6 +1,10 @@
 **R6 Downloader Changelog**
 
-[Version 2.1] (Latest)
+[Version 2.2] (Latest)
+- Added option to download Sku RUS for people that are missing the game's exe
+
+
+[Version 2.1]
 - Fixed Void Edge manifest for full support of The Grand Larceny event
 - Improved UI
 
