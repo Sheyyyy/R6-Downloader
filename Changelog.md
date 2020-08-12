@@ -1,6 +1,12 @@
 **R6 Downloader Changelog**
 
-[Version 2.2] (Latest)
+[Version 2.3] (Latest)
+- Added GB size next to each operation
+- Added Steel Wave manifests
+- Improved UI
+
+
+[Version 2.2]
 - Added option to download Sku RUS for people that are missing the game's exe
 
 
