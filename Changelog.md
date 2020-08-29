@@ -1,6 +1,6 @@
 **R6 Downloader Changelog**
 
-[Version 2.5]
+[Version 2.5] (Latest)
 - Added GB size next to each Extra Languages download 
 
 
