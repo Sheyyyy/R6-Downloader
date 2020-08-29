@@ -1,7 +1,11 @@
 **R6 Downloader Changelog**
 
-[Version 2.4] (Latest)
-- Added GB Size next to each 4K Textures download
+[Version 2.5]
+- Added GB size next to each Extra Languages download 
+
+
+[Version 2.4]
+- Added GB size next to each 4K Textures download
 - Changed Steel Wave manifest
 - Updated FAQ section
 - Improved UI
