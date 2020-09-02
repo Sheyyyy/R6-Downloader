@@ -1,6 +1,12 @@
 **R6 Downloader Changelog**
 
-[Version 2.5] (Latest)
+[Version 2.5.1] (Latest)
+- Added prompt telling people to read the FAQ and Guide before asking for help
+  each time the downloader is opened
+- Improved UI
+
+
+[Version 2.5]
 - Added GB size next to each Extra Languages download 
 
 
