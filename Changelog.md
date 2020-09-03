@@ -1,6 +1,10 @@
 **R6 Downloader Changelog**
 
-[Version 2.5.1] (Latest)
+[Version 2.5.2] (Latest)
+- Improved UI
+
+
+[Version 2.5.1]
 - Added prompt telling people to read the FAQ and Guide before asking for help
   each time the downloader is opened
 - Improved UI
