@@ -1,6 +1,11 @@
 **R6 Downloader Changelog**
 
-[Version 2.5.2] (Latest)
+[Version 2.5.3] (Latest)
+- Updated Guide
+- Improved UI
+
+
+[Version 2.5.2]
 - Improved UI
 
 
