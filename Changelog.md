@@ -78,7 +78,6 @@
 [Version 0.2]
 - Improved UI
 - Moved depot files into their own folder
-- Added extra languages manifests for each version
 
 
 [Version 0.1]
