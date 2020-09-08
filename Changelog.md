@@ -7,7 +7,7 @@
 - Improved UI
 
 
-[Version 2.5.3] (Latest)
+[Version 2.5.3]
 - Updated Guide
 - Improved UI
 
