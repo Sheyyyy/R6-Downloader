@@ -1,6 +1,10 @@
 **R6 Downloader Changelog**
 
-[Version 2.6] (Latest)
+[Version 2.6.1] (Latest)
+- Fixed auto-crack
+
+
+[Version 2.6]
 - Plaza is now automatically copied to the game's folder when you download
   so you can run the game without having to extract the crack
 - Updated Installation Guide and FAQ
