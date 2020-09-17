@@ -3,8 +3,10 @@
 [Version 2.7] (Latest)
 - Added .NET checker
 
+[Version 2.6.2]
+- Fixed auto-crack again
 
-[Version 2.6.1] (Latest)
+[Version 2.6.1]
 - Fixed auto-crack
 
 
