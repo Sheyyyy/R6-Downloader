@@ -1,5 +1,9 @@
 **R6 Downloader Changelog**
 
+[Version 2.7] (Latest)
+- Added .NET checker
+
+
 [Version 2.6.1] (Latest)
 - Fixed auto-crack
 
